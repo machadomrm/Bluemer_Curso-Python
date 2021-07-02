@@ -1,2 +1,2 @@
-print('hello word!!')
-print('Meu primeiro código. Eba!!!')
+print('Hello word!!')
+print('Criei meu primeiro código. Eba!!!')
